@@ -1,0 +1,46 @@
+body {
+	background-color: #c87802;
+	
+}
+
+entete {
+		font-size: 100%;
+
+	
+ 
+}
+	
+
+	
+	main{
+		font-family: Verdana, sans-serif;
+}
+
+	
+	
+	menu{
+		
+}
+
+	
+	contenu{
+		
+}
+
+	
+	
+	footer{
+		
+	
+}
+
+	td, th {
+		width: 1%;
+		background-color: #f1c584;
+	   border-width : 5px;
+    border-color: red;
+	border-style: solid;
+	font-family: Verdana, sans-serif;
+	}
+		
+	
